@@ -1,5 +1,4 @@
 {
-      "alaweays": false,
-      "titleversion": 11,
-      "versioncode": 39
-  }
+	"mandatoryupdate": false,
+	"versioncode": 39
+}
